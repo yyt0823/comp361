@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1"><zoom_level>10</zoom_level>
+<element><id>UMLGeneric</id><coordinates><x>260</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ff9999</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>300</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#d9d9d9</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>340</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#d9d9d9</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>380</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>420</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>460</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>500</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>540</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>580</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#d9d9d9</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>620</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#d9d9d9</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>660</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>700</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>740</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>780</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#fff4c2</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>820</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#fff4c2</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>860</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#d9d9d9</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>900</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#d9d9d9</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>940</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>980</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>1020</x><y>100</y><w>40</w><h>320</h></coordinates><panel_attributes>bg=#ffffff</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>260</x><y>75</y><w>800</w><h>25</h></coordinates><panel_attributes>January 2027
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>260</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>F
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>260</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>1
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>300</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>S
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>300</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>2
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>340</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>S
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>340</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>3
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>380</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>M
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>380</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>4
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>420</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>T
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>420</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>5
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>460</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>W
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>460</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>6
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>500</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>T
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>500</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>7
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>540</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>F
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>540</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>8
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>580</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>S
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>580</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>9
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>620</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>S
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>620</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>10
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>660</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>M
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>660</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>11
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>700</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>T
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>700</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>12
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>740</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>W
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>740</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>13
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>780</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>T
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>780</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>14
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>820</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>F
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>820</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>15
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>860</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>S
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>860</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>16
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>900</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>S
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>900</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>17
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>940</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>M
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>940</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>18
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>980</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>T
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>980</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>19
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>1020</x><y>100</y><w>40</w><h>20</h></coordinates><panel_attributes>W
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>1020</x><y>120</y><w>40</w><h>20</h></coordinates><panel_attributes>20
+halign=center</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>120</y><w>210</w><h>20</h></coordinates><panel_attributes>Task (owner)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>155</y><w>210</w><h>20</h></coordinates><panel_attributes>DB setup (Dev1)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>380</x><y>155</y><w>80</w><h>20</h></coordinates><panel_attributes>bg=#4a90d9
+transparency=0
+fg=red
+lw=2</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>185</y><w>210</w><h>20</h></coordinates><panel_attributes>Punch-out (Dev1)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>460</x><y>185</y><w>120</w><h>20</h></coordinates><panel_attributes>bg=#4a90d9
+transparency=0
+fg=red
+lw=2</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>215</y><w>210</w><h>20</h></coordinates><panel_attributes>Auto punch-out (Dev1)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>660</x><y>215</y><w>40</w><h>20</h></coordinates><panel_attributes>bg=#4a90d9
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>245</y><w>210</w><h>20</h></coordinates><panel_attributes>UI (Dev2)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>380</x><y>245</y><w>200</w><h>20</h></coordinates><panel_attributes>bg=#5cb85c
+transparency=0
+fg=red
+lw=2</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>275</y><w>210</w><h>20</h></coordinates><panel_attributes>Punch-in (Dev2)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>660</x><y>275</y><w>120</w><h>20</h></coordinates><panel_attributes>bg=#5cb85c
+transparency=0
+fg=red
+lw=2</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>305</y><w>210</w><h>20</h></coordinates><panel_attributes>Exit (Dev3)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>380</x><y>305</y><w>40</w><h>20</h></coordinates><panel_attributes>bg=#a070d0
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>335</y><w>210</w><h>20</h></coordinates><panel_attributes>Report (Dev3)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>460</x><y>335</y><w>120</w><h>20</h></coordinates><panel_attributes>bg=#a070d0
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>660</x><y>335</y><w>80</w><h>20</h></coordinates><panel_attributes>bg=#a070d0
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>365</y><w>210</w><h>20</h></coordinates><panel_attributes>Buffer
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>780</x><y>365</y><w>80</w><h>20</h></coordinates><panel_attributes>bg=#f2c200
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>40</x><y>395</y><w>210</w><h>20</h></coordinates><panel_attributes>Integrate + test (Dev1-3)
+halign=right</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>940</x><y>395</y><w>120</w><h>20</h></coordinates><panel_attributes>bg=#f08c3c
+transparency=0
+fg=red
+lw=2</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>1065</x><y>392</y><w>200</w><h>25</h></coordinates><panel_attributes>◆ End: Wed Jan 20, 2027
+fg=red</panel_attributes><additional_attributes/></element>
+<element><id>UMLNote</id><coordinates><x>40</x><y>460</y><w>640</w><h>160</h></coordinates><panel_attributes>Legend
+--
+Blue bar = Dev1   Green bar = Dev2   Purple bar = Dev3   Orange bar = all 3 devs
+Red outline = critical path task
+Grey column = weekend   Red column = holiday   Yellow column / bar = buffer day
+--
+Buffer: 2 days before Integrate + test, the riskiest step,
+because it is the first time all three devs&#x27; work is combined.</panel_attributes><additional_attributes/></element>
+<element><id>Text</id><coordinates><x>700</x><y>460</y><w>420</w><h>200</h></coordinates><panel_attributes>Q4: Work starts on Monday, January 4, 2027, because January 1 is New Year&#x27;s Day and January 2 and 3 are a weekend. Two buffer days (January 14 and 15) come before integration, the riskiest step.
+
+Q5: The project ends on Wednesday, January 20, 2027.
+
+Q6: The Gantt chart allocates 9 extra days: 6 weekend days, 1 holiday and 2 buffer days.
+style=wordwrap
+fontsize=13</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>700</x><y>620</y><w>140</w><h>22</h></coordinates><panel_attributes>*Type*
+halign=left
+bg=#e8e8e8
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>840</x><y>620</y><w>60</w><h>22</h></coordinates><panel_attributes>*Days*
+halign=left
+bg=#e8e8e8
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>900</x><y>620</y><w>220</w><h>22</h></coordinates><panel_attributes>*Dates*
+halign=left
+bg=#e8e8e8
+transparency=0</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>700</x><y>642</y><w>140</w><h>22</h></coordinates><panel_attributes>Weekend
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>840</x><y>642</y><w>60</w><h>22</h></coordinates><panel_attributes>6
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>900</x><y>642</y><w>220</w><h>22</h></coordinates><panel_attributes>Jan 2, 3, 9, 10, 16, 17
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>700</x><y>664</y><w>140</w><h>22</h></coordinates><panel_attributes>Holiday
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>840</x><y>664</y><w>60</w><h>22</h></coordinates><panel_attributes>1
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>900</x><y>664</y><w>220</w><h>22</h></coordinates><panel_attributes>Jan 1 (New Year&#x27;s Day)
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>700</x><y>686</y><w>140</w><h>22</h></coordinates><panel_attributes>Buffer
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>840</x><y>686</y><w>60</w><h>22</h></coordinates><panel_attributes>2
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>900</x><y>686</y><w>220</w><h>22</h></coordinates><panel_attributes>Jan 14, 15
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>700</x><y>708</y><w>140</w><h>22</h></coordinates><panel_attributes>*Grand total*
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>840</x><y>708</y><w>60</w><h>22</h></coordinates><panel_attributes>*9*
+halign=left</panel_attributes><additional_attributes/></element>
+<element><id>UMLGeneric</id><coordinates><x>900</x><y>708</y><w>220</w><h>22</h></coordinates><panel_attributes>
+halign=left</panel_attributes><additional_attributes/></element>
+</diagram>
